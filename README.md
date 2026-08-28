@@ -23,7 +23,7 @@
 
 ## Önizleme
 
-![BİZ Ship System](ship-preview.png)
+<img src="./ship-preview.png" alt="BİZ Ship System" width="700">
 
 ---
 
@@ -33,3 +33,22 @@ Prefix sisteminizde:
 
 ```txt
 .ship @kullanıcı/ID
+```
+
+---
+
+## Fotoğraf Sistemi
+
+Ship sistemi, eşleştirilen iki kullanıcının Discord profil fotoğraflarını otomatik olarak alır ve Ship kartı üzerinde gösterir.
+
+Kullanıcıların fotoğraflarını manuel olarak yüklemesine gerek yoktur. Sistem Discord üzerindeki güncel avatarları otomatik olarak kullanır.
+
+Ship kartında iki kullanıcının avatarı, ortada Ship yüzdesi ve özel kalp tasarımı bulunur.
+
+---
+
+## Linkler
+
+**Discord:** [discord.gg/biz](https://discord.gg/biz)
+
+**Profil:** [guns.lol/vuruldun](https://guns.lol/vuruldun)
