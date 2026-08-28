@@ -33,12 +33,3 @@ Prefix sisteminizde:
 
 ```txt
 .ship @kullanıcı/ID
-```
-
----
-
-## Linkler
-
-**Discord:** [discord.gg/biz](https://discord.gg/biz)
-
-**Profil:** [guns.lol/vuruldun](https://guns.lol/vuruldun)
