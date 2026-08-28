@@ -37,16 +37,6 @@ Prefix sisteminizde:
 
 ---
 
-## Fotoğraf Sistemi
-
-Ship sistemi, eşleştirilen iki kullanıcının Discord profil fotoğraflarını otomatik olarak alır ve Ship kartı üzerinde gösterir.
-
-Kullanıcıların fotoğraflarını manuel olarak yüklemesine gerek yoktur. Sistem Discord üzerindeki güncel avatarları otomatik olarak kullanır.
-
-Ship kartında iki kullanıcının avatarı, ortada Ship yüzdesi ve özel kalp tasarımı bulunur.
-
----
-
 ## Linkler
 
 **Discord:** [discord.gg/biz](https://discord.gg/biz)
