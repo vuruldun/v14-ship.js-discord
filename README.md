@@ -24,7 +24,7 @@
 
 ## Önizleme
 
-<img src="./ship-preview.png" alt="BİZ Ship System" width="700">
+<img src="./ship-preview1.png" alt="BİZ Ship System" width="700">
 
 ---
 
