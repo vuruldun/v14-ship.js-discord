@@ -1,7 +1,7 @@
 # JS14 DİSCORD • SHIP SYSTEM
 
 > Discord sunucularınız için eğlenceli, modern ve tamamen özelleştirilebilir bir **Ship / Love Match sistemi**.
-
+> Emojiler kendi sunucum için uyarlıdır kod içinden kendinize göre özelleştirebilirsiniz ^^.
 ---
 
 ## Özellikler
@@ -42,26 +42,6 @@ Gerekli modülleri yüklemek için:
 
 `npm install discord.js canvas sharp`
 
----
-
-## Dosya Yapısı
-
-`v14-ship.js-discord/
-│
-├── komutlar/
-│   └── eglence/
-│       └── ship.js
-│
-├── events/
-│   └── interactionCreate.js
-│
-├── utils/
-│   ├── emojis.js
-│   └── shipSystem.js
-│
-├── ship.json
-└──ship-preview.png`
- 
 
 ---
 
