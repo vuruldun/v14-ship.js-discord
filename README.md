@@ -1,7 +1,8 @@
 # JS14 DİSCORD • SHIP SYSTEM
 
 > Discord sunucularınız için eğlenceli, modern ve tamamen özelleştirilebilir bir **Ship / Love Match sistemi**.
-> Emojiler kendi sunucum için uyarlıdır kod içinden kendinize göre özelleştirebilirsiniz ^^.
+
+> Emojiler kendi sunucum için uyarlıdır kod içinden kendinize göre özelleştirebilirsiniz ^^
 ---
 
 ## Özellikler
@@ -63,8 +64,8 @@ Ship görselinin arka planında kullanılacak bannerı `utils/shipSystem.js` iç
 
 ## Bağlantılar
 
-[ Discord Sunucumuz](https://discord.gg/biz)
+[ (https://discord.gg/biz)
 
-[ guns.lol Profilimiz](https://guns.lol/vuruldun)
+[ (https://guns.lol/vuruldun)
 
 ---
