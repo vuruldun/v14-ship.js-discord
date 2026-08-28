@@ -27,9 +27,64 @@
 
 ---
 
+## Gereksinimler , Modüller
+
+- **Node.js 18+**
+- **discord.js v14**
+- **canvas**
+- **sharp**
+
+---
+
+## Kurulum
+
+Gerekli modülleri yüklemek için:
+
+`npm install discord.js canvas sharp`
+
+---
+
+## Dosya Yapısı
+
+`v14-ship.js-discord/
+│
+├── komutlar/
+│   └── eglence/
+│       └── ship.js
+│
+├── events/
+│   └── interactionCreate.js
+│
+├── utils/
+│   ├── emojis.js
+│   └── shipSystem.js
+│
+├── ship.json
+└──ship-preview.png`
+ 
+
+---
+
 ## Kullanım
 
 Prefix sisteminizde:
 
-```txt
-.ship @kullanıcı/ID
+`.ship @kullanıcı/ID`
+
+Kullanıcı etiketlemeden çalıştırırsanız sistem sunucudaki rastgele bir gerçek üyeyi seçer.
+
+---
+
+## Özelleştirme
+
+Ship görselinin arka planında kullanılacak bannerı `utils/shipSystem.js` içerisindeki `SHIP_BANNER` alanından değiştirebilirsiniz.
+
+---
+
+## Bağlantılar
+
+[ Discord Sunucumuz](https://discord.gg/biz)
+
+[ guns.lol Profilimiz](https://guns.lol/vuruldun)
+
+---
