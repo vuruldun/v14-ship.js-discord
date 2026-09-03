@@ -64,7 +64,7 @@ Ship görselinin arka planında kullanılacak bannerı `utils/shipSystem.js` iç
 
 ## Bağlantılar
 
- https://discord.gg/biz
+ https://discord.gg/namlu
 
  https://guns.lol/vuruldun
 
